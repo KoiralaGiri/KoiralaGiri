@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Giri Koirala
+# 👋 Hi, I'm Giri Raj Koirala
 
 ### Full-Stack Developer | Hardware Enthusiast | Security Advocate
 
@@ -44,7 +44,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm a software engineer who thrives at the intersection of **security, scalability, and great user experiences**. My journey in tech has taken me from building enterprise-grade Django applications to crafting privacy-first desktop software with Electron, and even launching Arduino-powered model rockets into the sky! 🚀
+Hey there! I'm an engineer who thrives at **security, scalability, and great user experiences**. My journey in tech has taken me from building enterprise-grade Django applications to crafting privacy-first desktop software with Electron, and even launching Arduino-powered model rockets into the sky! 🚀
 
 **What drives me:**
 - 🔐 **Security First**: I believe privacy is a fundamental right. From implementing SQLCipher encryption to building secure authentication systems, I design with security at the core, not as an afterthought.
