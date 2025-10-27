@@ -2,11 +2,41 @@
 
 # 👋 Hi, I'm Giri Koirala
 
-### Full-Stack Developer | Hardware Enthusiast | Problem Solver
+### Full-Stack Developer | Hardware Enthusiast | Security Advocate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoiralaGiri)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
 </div>
 
@@ -14,17 +44,35 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with a love for building secure, user-centric applications that solve real-world problems. From crafting privacy-first email clients to developing real estate management platforms, I enjoy working across the entire technology stack. When I'm not coding, you'll find me tinkering with Arduino-powered model rockets and exploring the intersection of hardware and software.
+Hey there! I'm a software engineer who thrives at the intersection of **security, scalability, and great user experiences**. My journey in tech has taken me from building enterprise-grade Django applications to crafting privacy-first desktop software with Electron, and even launching Arduino-powered model rockets into the sky! 🚀
+
+**What drives me:**
+- 🔐 **Security First**: I believe privacy is a fundamental right. From implementing SQLCipher encryption to building secure authentication systems, I design with security at the core, not as an afterthought.
+- 🎯 **User-Centric Design**: Technology should be intuitive and delightful. I obsess over clean UIs, smooth animations, and interfaces that just *feel right*.
+- 🛠️ **Full-Stack Fluency**: Whether it's architecting Django backends, building React frontends, or optimizing database queries, I'm comfortable across the entire stack.
+- 🔬 **Hardware Meets Software**: There's something magical about code that interacts with the physical world. My model rocket projects combine RF transceivers, sensors, and real-time data visualization.
+
+**Current Focus:**
+Building **Better Mail** — a privacy-focused email client that puts security and user experience first. Think end-to-end encryption, tracker blocking, and a beautiful interface that makes email management actually enjoyable.
 
 ```typescript
 const giri = {
-    location: "🌍 Your Location",
-    currentFocus: ["System Architecture", "Security", "UX Design"],
-    learning: ["Advanced Cryptography", "Distributed Systems", "Rocket Science 🚀"],
-    workingOn: "Building secure, privacy-focused applications",
-    funFact: "I build rockets that talk to each other via RF transceivers!"
+    code: ["TypeScript", "JavaScript", "Python", "C++"],
+    architecture: ["Full-Stack", "Desktop Apps", "REST APIs", "Real-time Systems"],
+    technologies: {
+        frontend: ["React", "Vite", "Tailwind CSS", "Framer Motion", "Three.js"],
+        backend: ["Django", "Node.js", "Electron"],
+        databases: ["SQLite", "SQLCipher", "PostgreSQL"],
+        security: ["OAuth", "OpenPGP", "Azure AD", "Encryption"],
+        hardware: ["Arduino", "RF Communication", "Sensors"]
+    },
+    currentlyLearning: ["Distributed Systems", "Advanced Cryptography", "Aerospace Engineering"],
+    hobbies: ["Building Rockets 🚀", "System Design", "Open Source"],
+    funFact: "I once debugged a rocket's telemetry system mid-flight!"
 };
 ```
+
+**Beyond the code:** When I'm not pushing commits, you'll find me experimenting with model rocketry, reading about cryptography, or sketching out system architectures on whiteboards. I'm passionate about building things that matter — whether it's securing someone's private communications or helping a rocket reach new heights.
 
 ---
 
@@ -158,45 +206,58 @@ Collection of enterprise applications including DT Fest Website, Intranet Websit
 
 ---
 
-## 🏆 Achievements
+## 🎨 GitHub Activity
 
-```
-🔐  Built production-ready encrypted email client
-🏗️  Architected full-stack real estate management platform  
-🚀  Developed Arduino-based rocket telemetry system
-🤖  Integrated AI for automated content generation
-🎨  Designed and deployed multiple client websites
-⚡  Optimized database queries for 10x performance improvement
-```
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KoiralaGiri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F)
+
+</div>
 
 ---
 
-## 💡 Core Competencies
+## 🌟 Featured Contributions & Highlights
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Technical Skills
-- Full-Stack Web Development
-- Desktop Application Development
-- Database Design & Optimization
-- Security & Encryption
-- API Design & Integration
-- Real-time Communication
-- Hardware Integration
+### 🏗️ **Architecture & Design**
+Building scalable systems with clean architecture
+- **Microservices Design** for enterprise applications
+- **Database Optimization** - Query performance tuning
+- **Security-First** approach to system design
+- **RESTful API** design and implementation
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌟 Soft Skills
-- System Architecture
-- Problem Solving
-- User Experience Design
-- Agile Development
-- Technical Documentation
-- Code Review
-- Team Collaboration
+### 🚀 **Innovation & Exploration**
+Pushing boundaries with emerging tech
+- **Hardware Integration** with Arduino & IoT
+- **Real-time Systems** with RF communication
+- **AI/ML Integration** for automation
+- **Desktop Apps** with Electron & native APIs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 **Development Philosophy**
+- **Code Quality**: Clean, maintainable, documented
+- **Security**: Encryption, auth, data protection
+- **Performance**: Optimized queries, efficient algorithms
+- **UX Focus**: Beautiful, intuitive interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 **Continuous Learning**
+- **Reading**: System design, cryptography papers
+- **Building**: Side projects & experiments
+- **Sharing**: Code reviews & documentation
+- **Growing**: New frameworks & technologies
 
 </td>
 </tr>
@@ -204,31 +265,19 @@ Collection of enterprise applications including DT Fest Website, Intranet Websit
 
 ---
 
-## 🎯 What I'm Working On
+## 📬 Get In Touch
 
-- 🔐 **Better Mail**: Enhancing email security with advanced encryption features
-- 🏠 **AgentFusion**: Adding AI-powered property recommendations
-- 🚀 **Model Rockets**: Implementing autonomous flight control systems
-- 📚 **Learning**: Exploring distributed systems and cloud architecture
-- 🌱 **Growing**: Contributing to open-source security projects
+<div align="center">
 
----
+**Open to collaborate on exciting projects, discuss tech, or just chat about rockets! 🚀**
 
-## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-I'm always interested in collaborating on innovative projects, especially those involving:
+**Interested in:**
+`Privacy Tech` • `Full-Stack Development` • `Hardware Projects` • `System Design` • `Open Source`
 
-- 🔐 Privacy & Security Technologies
-- 🚀 Hardware & IoT Projects
-- 🎨 Beautiful User Interfaces
-- 🤖 AI/ML Integration
-- 🌐 Full-Stack Applications
-
-**Reach out if you want to:**
-- 💬 Discuss technology and innovation
-- 🤝 Collaborate on open-source projects
-- 🎓 Share knowledge and learn together
-- 🚀 Build something amazing
+</div>
 
 ---
 
