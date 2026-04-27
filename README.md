@@ -4,4 +4,4 @@ I built my own Arduino-powered flight computer in my junior year of high school 
 
 I am actively pursuing internships to gain hands-on experience and build a career in astronautics. I also plan to produce a more advanced flight computer, and create another OpenRocket design I can actually build and test in real life.
 
-I'm confident in high-level languages like Python, Java, JavaScript, and TypeScript, and I'm self-learning IaC tools like Terraform and Kubernetes. I’m also picking up C++, MATLAB, SolidWorks, and CATIA to prepare for the mechanical engineering and CAD side of the industry. I do hope the high-level langauges I know come in handy for my career.
+I'm confident in high-level languages like Python, Java, JavaScript, and TypeScript, and I'm self-learning IaC tools like Terraform and Kubernetes. I’m also picking up C++, MATLAB, SolidWorks, and Ansys to prepare for the mechanical engineering and CAD side of the industry. I do hope the high-level langauges I know come in handy for my career.
